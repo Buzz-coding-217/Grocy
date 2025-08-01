@@ -227,3 +227,11 @@ DefaultUserSetting('calendar_color_tasks', '#28a745'); // The event color (hex c
 DefaultUserSetting('calendar_color_chores', '#ffc107'); // The event color (hex code) for due chores
 DefaultUserSetting('calendar_color_batteries', '#17a2b8'); // The event color (hex code) for due battery charge cycles
 DefaultUserSetting('calendar_color_meal_plan', '#6c757d'); // The event color (hex code) for meal plan items
+
+
+Setting('DB_CONNECTION', 'mysql');
+Setting('DB_SERVER', '34.27.181.209');
+Setting('DB_DATABASE', 'grocy');
+Setting('DB_USERNAME', 'grocyuser');
+Setting('DB_PASSWORD', 'RSSB1');
+
