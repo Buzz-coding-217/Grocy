@@ -230,8 +230,9 @@ DefaultUserSetting('calendar_color_meal_plan', '#6c757d'); // The event color (h
 
 
 Setting('DB_CONNECTION', 'mysql');
-Setting('DB_SERVER', '34.27.181.209');
+Setting('DB_SERVER', '/cloudsql/grocy-deployment-467111:us-central1:grocy-sql');
 Setting('DB_DATABASE', 'grocy');
 Setting('DB_USERNAME', 'grocyuser');
 Setting('DB_PASSWORD', 'RSSB1');
+
 
